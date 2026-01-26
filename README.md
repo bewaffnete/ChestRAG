@@ -34,7 +34,7 @@ docker-compose up --build
 | **F1-Score**  | **0.38** |
 
 <img src="static/conf_matrix.jpg" alt="Any" width="90%" />
-<img src="static/UMAP_visualisation.jpg" alt="Ay" width="90%" />
+<img src="static/UMAP_visualisation.jpg" alt="Any" width="90%" />
 
 
 
@@ -54,11 +54,7 @@ docker-compose up --build
    - Code: `src/vectorstore/chroma.py` + `retriever.py`  
    → top-k similar images + metadata
 
-4. **Context Preparation**  
-   - Retrieved images + diagnoses → formatted prompt  
-   - Code: `src/llm/prompt_template.py`
-
-5. **LLM Inference**  
+4. **LLM Inference**  
    - Input: new image + context prompt  
    - Model: **Gemma 3 4B**  
    - Code: `src/llm/ask.py`  
