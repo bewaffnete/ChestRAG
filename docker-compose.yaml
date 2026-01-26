@@ -1,0 +1,38 @@
+services:
+  ollama:
+    build:
+      context: ./src
+      target: ollama
+    image: ollama/ollama:latest
+    container_name: ollama
+    env_file:
+      - .env
+    ports:
+      - "11434:11434"
+    volumes:
+      - ollama-data:/root/.ollama
+    restart: unless-stopped
+
+
+  api:
+    build:
+      context: ./src
+      target: api
+    container_name: fastapi-app
+    ports:
+      - "8000:8000"
+    env_file:
+      - .env
+    depends_on:
+      - ollama
+    environment:
+      - HF_HOME=/app/.cache/huggingface
+    volumes:
+      - hf-cache:/app/.cache/huggingface
+      - ./chroma_db/db:/app/chroma_db
+    restart: unless-stopped
+
+volumes:
+  ollama-data:
+  hf-cache:
+  chroma-data:

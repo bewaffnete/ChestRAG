@@ -1,0 +1,4 @@
+.env
+/data/test.npz
+chroma_db/bd
+__pycache__/

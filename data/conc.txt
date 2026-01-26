@@ -1,0 +1,38 @@
+228
+['Signs: The heart size is the upper limit of normality. The mediastinal and urinal contours are normal.
+The pulmonary vasculature is normal. Pulmonaries are clear. No pleural effusion or pneumothorax is seen.
+There are no acute ostensible abnormalities. Impression: no acute cardiopulmonary abnormality.',
+'Findings: lungs are clear, the cardiomediastinal silhouette is normal. No acute ostensible anomalies detected.
+Impression: Normal chest x-rays.']
+
+
+291
+['Results: the lungs are very clear without burning consolidation, pleural effusion, or pneumothorax.
+There is no pulmonary oedema. The heart is normally large and the medial contours are normal.
+Impression: No acute pulmonary process identified.']
+
+
+122
+['Findings: Impression: Small bilateral pleural casts as remaining lower flap atelectases have essentially cleared off.
+Cardiomediastinal silhouette has a normal postoperative appearance. No pulmonary oedema and no pneumothorax.
+A ___ x 31 mm oval turbidity projected over the side aspect of the left centre was not present preoperatively
+and does not therefore cause concern for a mass. It is thought to be a small quantity of liquid trapped in the left main column or otherwise loculated.
+Right jugular line ended in the mid SVC.', 'Findings: Impression: Compared with the previous radiograph,
+lung volumes remain low. Small pleural effusion that can be seen on the side radiograph of the previous examination is
+no longer visualized. The star otomy wires are in unchanged correct position. No pneumonia, no pulmonary oedema.
+Borderline size of the cardiac silhouette.', 'Findings: Impression: Right inner jugular line tip is on the level of the lower SVC.
+Cardiomediastinal silhouette is unchanged. Left linear opacities consistent with atelectasis. A rounded atelectasis along the left chest is unchanged.
+There is no pneumothorax', 'Results: Compared to the previous radiograph, the lung volume is slightly lower.
+The right centreline IJ has been removed and the right lung is clear. No pneumothorax.
+Bilateral small pleural effusions remain unchanged. Intact median stero-domyed wires.
+Impression: 1. Median stero-nomyed wires are intact. 2. Small bilateral pleural effusions are unchanged.']
+
+
+93
+['Findings: There is no strengthening in the focal point. There is no pleural effusion or pneumothorax.
+Heart and mediastinum silhouettes are stable, no pulmonary oedema is observed. Impression: no acute cardiopulmonary process.']
+
+
+106
+['Findings: The lungs are clear. Cardiomediastinal and hilaric contours are unmarkable.
+There is no pleural effusion or pneumothorax. Impression: No acute cardiopulmonary process.']
