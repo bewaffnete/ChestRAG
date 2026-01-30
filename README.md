@@ -21,7 +21,7 @@ docker-compose up --build
 - **LLM**  
   Gemma 3 4B (Optional)
 - **Embedding Model**  
-  google/medsiglip-448
+  google/medsiglip-448 (without fine-tuning)
 - **Vector Database**  
   Chroma
 - **Web Framework**  
