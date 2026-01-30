@@ -39,7 +39,7 @@ docker-compose up --build
 
 
 
-# Pipeline Overview
+# Overview
 
 1. **User uploads chest X-ray**  
    → processed in `src/app/main.py`
